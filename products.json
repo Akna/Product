@@ -1,0 +1,32 @@
+[
+    {
+        "url": "https://github.com/Akna/Product/blob/master/images/bananas.jpg",
+        "id": "1",
+        "title": "Bananas",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/Akna/Product/blob/master/images/hamburgers.jpg",
+        "id": "2",
+        "title": "Hamburgers",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/Akna/Product/blob/master/images/blueberries.jpg",
+        "id": "3",
+        "title": "Blueberries",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/Akna/Product/blob/master/images/watermelons.jpg",
+        "id": "4",
+        "title": "Watermelons",
+        "isFavorite": false
+    },
+    {
+        "url": "https://github.com/Akna/Product/blob/master/images/apples.jpg",
+        "id": "5",
+        "title": "Apples",
+        "isFavorite": false
+    }
+]
