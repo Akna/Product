@@ -3,30 +3,35 @@
         "url": "https://github.com/Akna/Product/blob/master/images/bananas.jpg?raw=true",
         "id": "1",
         "title": "Bananas",
-        "isFavorite": false
+        "isFavorite": false, 
+        "price": "0.99"
     },
     {
         "url": "https://github.com/Akna/Product/blob/master/images/hamburgers.jpg?raw=true",
         "id": "2",
         "title": "Hamburgers",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "5.99"
     },
     {
         "url": "https://github.com/Akna/Product/blob/master/images/blueberries.jpg?raw=true",
         "id": "3",
         "title": "Blueberries",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "6.99"
     },
     {
         "url": "https://github.com/Akna/Product/blob/master/images/watermelons.jpg?raw=true",
         "id": "4",
         "title": "Watermelons",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "2.99"
     },
     {
         "url": "https://github.com/Akna/Product/blob/master/images/apples.jpg?raw=true",
         "id": "5",
         "title": "Apples",
-        "isFavorite": false
+        "isFavorite": false,
+        "price": "1.99"
     }
 ]
